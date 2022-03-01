@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Ireland or A briefe relation of the great battaile [sic] fought near Rosse the 10, of March 1642, with a list of the commanders slaine and taken prisoners [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03468</idno>
+            <idno type="STC">Wing G1060AA</idno>
+            <idno type="STC">ESTC R188127</idno>
+            <idno type="EEBO-CITATION">51784558</idno>
+            <idno type="OCLC">ocm 51784558</idno>
+            <idno type="VID">174967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174967)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2707:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Ireland or A briefe relation of the great battaile [sic] fought near Rosse the 10, of March 1642, with a list of the commanders slaine and taken prisoners [sic].</title>
+                  <author>Raddams, Jer.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Jer. Raddams.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174967:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>Good newes from Ireland or a Briefe Relation of the Great Battaile fought neere Roſſe <date>the 10, of March 1642,</date> with a Liſt of the Commanders ſlaine and taken priſoners.</head>
+            <opener>
+               <salute>M. Wrigliſworth.</salute>
+            </opener>
+            <p>I have receaved your Letter dated the fourteenth of March, I underſtand thereby of your paines and care you have tooke therein for which I am obliged unto you for. I hope John Bettſon is in London by this. I thought good to give you notice of the great victory and deliverance which God hath given our Army here the firſt of March, they marched out of towne about 4000 horſe and foot, the Chiefe commanders was the Livetenant Generall, the Lord Lile, Sr. Frances Willowby, Sir Thomas Lucas, Sir Richard Greenefield, Collonell Hunks, Collonell Cromwell Colonell Munke, Collonell Gibſon, with ſix pieces of ordnance: Firſt they aſsaid Timlin Caſtle they refuſing quarter the caſtle was taken, and three hundred put to the Sword, from thence they marcht to beſiege Roſſe, after the beſieging for foure dayes Generall Preſton came upon them with ſeaven thouſand foot and eight hundred horſe, all his army were the choyce men of the Kingdome thinking verily to vanquiſh our army, a new hot battaile they had, inſomuch that they came to the ſword; the Chiefe of them ſhewed themſelves mighty valerous inſomuch that they went ſo farre on, that they were not able to get off againſt, the common ſort the Generall forget<g ref="char:EOLhyphen"/>ting to ſheckle them, they all ran away and left their aſsiſers to the mercy of our men, weich ſhewed them but little, at the laſt it pleaſed God to give our army the day: it is credebly reported that there was killed of the chiefe commanders and aſsiſers about three hundred beſides, the commons, ſome ſay a thouſand. I have ſent you a liſt of ſome of the chiefe Commanders which were taken priſoners and ſlaine, the moſt that any man ſayes were kild of our men were not a<g ref="char:EOLhyphen"/>bove twenty and never a man of note but Marſhall Burrowes, but we had ſeverall hurt, as Sir Thomas Lucas cut in the head with a pole-axe, and Major Morris, and Major Hammon ſhott they came home the ſeaven and twentieth of March, 1643. The Lord Marbueſſe behaved him<g ref="char:EOLhyphen"/>ſelfe very valiantly and ſo di all the reſt. I pray remember my ſervice to your partner, and give him thankes for his intelligence, I pray ſhew him this, with my love to your ſelfe I reſt and am.</p>
+            <closer>
+               <dateline>Dublin <date>this 29. of March, 16<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</date>
+               </dateline>
+               <signed>Your loving friend, Jer. Raddams.</signed>
+            </closer>
+         </div>
+         <div type="lists_of_prisoners_and_dead">
+            <head>A Liſt of priſoners taken and ſlaine at the bettaile neere Roſſe <date>the tenth day of March, 1643.</date>
+            </head>
+            <div type="part">
+               <head>Priſoners.</head>
+               <p>Lievtenant Generall Cvllen, Serant Major Butler Cap. Gelale fitzgerald Cap. John Butler Cap. fitz<g ref="char:EOLhyphen"/>geral of Blake-hall, Cap. Maſterſon, Cap. Dally Cap. Synod Ancient Synod Maſter Newgent Maſter Edward Butler. Dallowg Marckemorow.</p>
+            </div>
+            <div type="part">
+               <head>Slaine.</head>
+               <p>Coll. Preſton, ſon to John Preſton. Coll. Archibold. Lieutenant Coll. Browne. of Mulran<g ref="char:EOLhyphen"/>kin. Cap. Brean. Cap. Tobit. Butler. Cap. Scurlocke. Cap. Henry Bagnall Cap. Butler. ſon to the Lord Donboyne. Captaine Archibold. Captaine Ewſtace. Cap. Long Turlowgh O Dempſijr Quarter Maſter generall ſecond ſon to the Lord Dempſiy Sir Morgan Cavanah. M. Tho. Butler ſon to S. R. Butler. M. Ed. Butler of Tully M. Walter Butler B. Butler, Edmond Ric. Buteler ſon to the Lady margaret. beſides 300 more of the beſt Commanders and Gentlemen ſlaine.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for L Chapman, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
